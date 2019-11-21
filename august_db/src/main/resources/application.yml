@@ -1,0 +1,14 @@
+
+
+spring:
+  application:
+    name: auguest-db
+  profiles:
+    active: db
+
+server:
+  port: 7070
+
+
+
+
